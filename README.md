@@ -1,2 +1,6 @@
 # hello-world
-Just New Repository
+
+Hi Humans
+
+Trying to get in DEVOPS.
+Practising GITHUB and Just created New Repository
